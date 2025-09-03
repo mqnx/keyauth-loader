@@ -10,7 +10,7 @@ The project is minimal, clean, and easy to extend. (Remember that is only a base
 - **x64** architecture
 - **Multibyte** character set
 - Simple and well-structured codebase
-- Ready to be extended or integrated into larger projects
+- Ready to be extended into larger projects
 
 ---
 
