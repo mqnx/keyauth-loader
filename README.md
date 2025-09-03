@@ -1,7 +1,7 @@
 # KeyAuth Simple Loader (C++20+, x64)
 
 A simple **C++ loader** integrated with [KeyAuth](https://keyauth.cc), designed as a starting point for anyone who wants to build and customize their own loader.  
-The project is minimal, clean, and easy to extend.
+The project is minimal, clean, and easy to extend. (Remember that is only a base, with this, you can start to make your own protected/not loader).
 
 ---
 
