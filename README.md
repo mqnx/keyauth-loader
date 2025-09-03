@@ -5,7 +5,7 @@ The project is minimal, clean, and easy to extend.
 
 ---
 
-## ✨ Features
+## Features
 - Written in **C++20+**
 - **x64** architecture
 - **Multibyte** character set
@@ -14,7 +14,7 @@ The project is minimal, clean, and easy to extend.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 - **Visual Studio 2022** or later  
 - **MSVC v143** toolset  
 - **x64 Native Tools**  
@@ -22,7 +22,7 @@ The project is minimal, clean, and easy to extend.
 
 ---
 
-## 🚀 Build Instructions
+## Build Instructions
 1. Clone the repository: git clone https://github.com/mqnx/keyauth-loader.git
-2. 3. Select **x64** and **Release** mode.
+2. Select **x64** and **Release** mode.
 4. Compile the solution (`Ctrl + Shift + B`).
