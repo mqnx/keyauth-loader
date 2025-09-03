@@ -14,20 +14,6 @@ The project is minimal, clean, and easy to extend.
 
 ---
 
-## 📂 Project Structure
-├── source/
-│   ├── main.cpp
-│   ├── includes.h
-│   ├── utils/
-│   │   ├── auth/
-│   │   │   ├── auth.h
-│   │   │   └── library_x64.lib
-│   │   └── protection/
-│   │       └── encrypter.h
-├── KeyAuthLoader.sln
-
----
-
 ## ⚙️ Requirements
 - **Visual Studio 2022** or later  
 - **MSVC v143** toolset  
